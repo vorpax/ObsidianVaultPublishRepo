@@ -16,6 +16,9 @@ En Europe, ce sont Fortis et la Northern Bank qui sont sauvées de la faillite.
 
 Ainsi, on voit le retour en grace d'un Etat ayant un role clé dans l'économie. 
 
+
+[[Quelle forme la régulation financière doit-elle prendre]]
+
 On reconnait à l'Etat le role de maintenir les flux de liquidité dans le circuit économique, par exemple grace aux prets qu'il garantit en tant que preteur en dernier ressors. Dans les cas les plus critiques, il peut meme recourrir à des nationalisations temporaires (En Angleterre, par exemple avec Northern Rock).
 
 
